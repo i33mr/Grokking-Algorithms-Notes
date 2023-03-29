@@ -4,6 +4,8 @@ This book covers a range of algorithm topics, from basic concepts like binary se
 
 Grokking Algorithms is a great resource for anyone starting with algorithms or wanting to brush up on their knowledge. However, it may not be suitable for advanced readers looking for more challenging material
 
+These notes were written using Obsidian, a knowledge management and note-taking app that allows for a more interactive and personalized experience. For the best experience, it's recommended to clone the repo locally and use Obsidian to access the notes.
+
 In these notes, you'll find summaries and key takeaways from each chapter, along with examples and exercises to help solidify your understanding. Check out the GitHub repository for more information and to get started!
 
 🔍 Happy learning! 💻
