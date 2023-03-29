@@ -1,0 +1,19 @@
+{
+  "obsidian-languagetool-plugin:ltclear": [],
+  "obsidian-languagetool-plugin:ltautocheck-text": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "obsidian-languagetool-plugin:ltcheck-text": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Escape"
+    }
+  ]
+}
